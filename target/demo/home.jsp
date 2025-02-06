@@ -6,7 +6,7 @@
         <title>Document</title>
     </head>
     <body>
-        <h1> Hello JSP</h1>
-        <h2>${user.firstName}</h2>
+        <h1> Hello JSP HOME</h1>
+
     </body>
 </html>
